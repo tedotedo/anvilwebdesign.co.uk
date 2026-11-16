@@ -140,12 +140,12 @@
         <p>Email me at <a href="mailto:hello@anvilwebdesign.co.uk">hello@anvilwebdesign.co.uk</a>, or fill this in and it'll open your email with the message ready to send. I'll reply within a working day.</p>
         <form class="form" data-form novalidate>
           <div class="pair">
-            <p><label for="f-name">Your name</label><input id="f-name" name="name" autocomplete="name" required></p>
-            <p><label for="f-business">Your business</label><input id="f-business" name="business" autocomplete="organization" required></p>
+            <p><label for="f-name">Your name</label><input id="f-name" name="name" type="text" autocomplete="name" autocapitalize="words" required></p>
+            <p><label for="f-business">Your business</label><input id="f-business" name="business" type="text" autocomplete="organization" autocapitalize="words" required></p>
           </div>
           <div class="pair">
-            <p><label for="f-town">Town</label><input id="f-town" name="town"></p>
-            <p><label for="f-email">Your email</label><input id="f-email" name="email" type="email" autocomplete="email" required></p>
+            <p><label for="f-town">Town</label><input id="f-town" name="town" type="text" autocomplete="address-level2" autocapitalize="words"></p>
+            <p><label for="f-email">Your email</label><input id="f-email" name="email" type="email" autocomplete="email" autocapitalize="off" spellcheck="false" required></p>
           </div>
           <fieldset>
             <legend>What would you like?</legend>
