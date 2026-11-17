@@ -13,4 +13,4 @@ Preview locally with `python3 -m http.server` and open http://localhost:8000.
 
 ## Private proposal pages
 
-`for/serinos/`, `for/borrelli/`, `for/cafe-nossa/` and `for/pilates-studio/` hold copies of the four concept sites (Sets A to D) made for those businesses. They are not linked from the homepage, every page carries `noindex`, and each keeps its "Concept design, not the official website" banner. The originals live in their own `tedotedo/*-demo` repositories.
+`for/serinos/`, `for/borrelli/`, `for/cafe-nossa/`, `for/pilates-studio/`, `for/ey-handyman/`, `for/jmh-travel/`, `for/osbournes/` and `for/ultra-football-shirts/` hold copies of the concept sites (Sets A to D) made for those businesses. They are not linked from the homepage, every page carries `noindex`, and each keeps its "Concept design, not the official website" banner. The originals live in their own `tedotedo/*-demo` repositories.
